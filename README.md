@@ -1,6 +1,6 @@
 # Israel Del Angel --Web Developer
 
-- 👋 Hi, my name's Israel, but feel free to call me "Izzy" (if you speak Spanish, feel free to call me "Isra"), and I'm 39 years old. I like learning and taking on new challenges: there's no impossible, just not enough know-how.
+- 👋 Hi, my name's Israel, but feel free to call me "Izzy", and I'm 40 years old. I like learning and taking on new challenges: there's no impossible, just not enough know-how.
 
 
 - 🌱 Currently, I'm practicing my HTML/CSS and JavaScript skills. To start, I created a website for my dad's [carpet cleaning business](https://serviciodelangel.com). I based the design on the [project](https://omnifood-ida.netlify.app/) we built during my training and added a few more things, such as the image slider and tabbed pricing section. Furthermore, when you browse my repositories, you'll see I mostly have projects that solve challenges from [frontendmentor.io](https://www.frontendmentor.io/profile/mexwebdev21).
