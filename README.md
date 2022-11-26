@@ -1,14 +1,13 @@
 # Israel Del Angel --Web Developer
 
-- 👋 Hi, my name's Israel, but feel free to call me "Izzy", and I'm 40 years old. I like learning and taking on new challenges: there's no impossible, just not enough know-how.
+- 👋 Hi, my name's Israel, and I'm a Web Developer, Web Designer. 
 
 
-- 🌱 Currently, I'm practicing my HTML/CSS and JavaScript skills. To start, I created a website for my dad's [carpet cleaning business](https://serviciodelangel.com). I based the design on the [project](https://omnifood-ida.netlify.app/) we built during my training and added a few more things, such as the image slider and tabbed pricing section. Furthermore, when you browse my repositories, you'll see I mostly have projects that solve challenges from [frontendmentor.io](https://www.frontendmentor.io/profile/mexwebdev21).
+- 🌱 Most of the repositories that I own are solutions to Frontend Mentor challenges. However, I have designed and built a couple of websites: my dad's [carpet cleaning business](https://serviciodelangel.com), and a family member's [restaurant business website](https://pipoham274.netlify.app/). 
 
 
 ## Skills
 
-As mentioned before, my skills include:
 
 - HTML
 - CSS
@@ -19,7 +18,7 @@ As mentioned before, my skills include:
 
 ## Disclaimer
 
-I must add that you can freely clone or download the code in any of my public repositories. If you have any questions, feel free to contact me.
+Feel free to clone or download the code in any of my public repositories. If you have any questions, feel free to contact me.
 
 
 ## Contact
@@ -27,11 +26,8 @@ I must add that you can freely clone or download the code in any of my public re
 - Gmail- [@mexwebdev21](mailto:mexwebdev21@gmail.com)
 - Twitter - [@mexwebdev2121](https://www.twitter.com/mexwebdev2121)
 - Linkedin - [Israel Del Angel](https://www.linkedin.com/in/idelangel)
-- Telegram - [@mexwebdev21](https://t.me/mexwebdev21)
+
 
 Cheers!
 
-<!---
-mexwebdev21/mexwebdev21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
