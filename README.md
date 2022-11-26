@@ -1,6 +1,6 @@
 # Israel Del Angel --Web Developer
 
-- 👋 Hi, my name's Israel, and I'm a Web Developer, Web Designer. 
+- 👋 Hi, my name's Israel, and I'm a Web Developer and Designer. 
 
 
 - 🌱 Most of the repositories that I own are solutions to Frontend Mentor challenges. However, I have designed and built a couple of websites: my dad's [carpet cleaning business](https://serviciodelangel.com), and a family member's [restaurant business website](https://pipoham274.netlify.app/). 
