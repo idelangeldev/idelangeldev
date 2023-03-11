@@ -23,8 +23,8 @@ Feel free to clone or download the code in any of my public repositories. If you
 
 ## Contact
 
-- Gmail- [@mexwebdev21](mailto:mexwebdev21@gmail.com)
-- Twitter - [@mexwebdev2121](https://www.twitter.com/mexwebdev2121)
+- Gmail- [@idelangeldev](mailto:idelangeldev@gmail.com)
+- Twitter - [@idelangeldev](https://www.twitter.com/idelangeldev)
 - Linkedin - [Israel Del Angel](https://www.linkedin.com/in/idelangel)
 
 
